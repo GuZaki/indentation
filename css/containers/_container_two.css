@@ -1,0 +1,33 @@
+.section:nth-child(4) {
+    height: 2934px;
+}
+
+.container-two {
+    width: 1130px;
+    height: 2884px;
+}
+
+.container-two__container-header {
+    width: 1080px;
+    font-size: 36px;
+    font-weight: 900;
+    margin-bottom: 30px;
+    line-height: 43px;
+}
+
+.container-two__container-text {
+    width: 1080px;
+    line-height: 24px;
+    margin-bottom: 30px;
+}
+
+.container-two__container-text:last-child{
+    margin-bottom: 0;
+}
+
+.container-two__container-img {
+    margin-bottom: 30px;
+    width: 1080px;
+    text-align: center;
+}
+

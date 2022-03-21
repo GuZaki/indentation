@@ -1,0 +1,16 @@
+.navigation {
+    width: 1140px;
+    height: 215px;
+    background-color: #F1F1F1;
+    padding: 25px 0 25px 45px;
+}
+
+.navigation__header {
+    font-size: 44px;
+    font-weight: 700;
+}
+
+.navigation__list {
+    color: #02535F;
+    padding-left: 30px;
+}

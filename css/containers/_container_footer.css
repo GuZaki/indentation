@@ -1,0 +1,35 @@
+.section:nth-child(6) {
+    height: 459px;
+    padding-bottom: 60px;
+}
+
+.container-footer {
+    width: 1140px;
+    height: 376px;
+    background-color: #F1F1F1;
+    padding: 25px 0 22px 30px;
+}
+
+.container-footer__header {
+    width: 1080px;
+    font-size: 44px;
+    font-weight: 700;
+    margin-bottom: 19px;
+    line-height: 53px;
+}
+
+.container-footer__list {
+    margin-bottom: 29px;
+    list-style: "—";
+    margin-left: 20px;
+}
+
+.list-item {
+    padding-bottom: 9px;
+    padding-left: 5px;
+}
+
+.container-footer__text {
+    width: 1080px;
+    line-height: 24px;
+}

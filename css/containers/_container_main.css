@@ -1,0 +1,26 @@
+.section:nth-child(1) {
+    height: 385px;
+    padding-top: 60px;
+}
+
+.container-main {
+    width: 1130px;
+    height: 300px;
+}
+
+.container-main__container-header {
+    width: 1080px;
+    font-size: 60px;
+    font-weight: 900;
+    margin-bottom: 30px;
+    line-height: 100%;
+}
+
+.container-main__container-text {
+    width: 1080px;
+    margin-bottom: 30px;
+}
+
+.container-main__container-text:last-child {
+    margin-bottom: 0;
+}
