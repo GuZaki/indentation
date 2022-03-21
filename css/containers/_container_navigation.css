@@ -14,3 +14,9 @@
     color: #02535F;
     padding-left: 30px;
 }
+
+.navigation__list li {
+   /* border-bottom: #02535F solid 1px;*/
+    text-decoration: #02535F underline;
+    line-height: 1.5;
+}
